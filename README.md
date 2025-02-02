@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in JavaScript related to null handling within a simple addition function. The function `foo` aims to return 0 if either input `a` or `b` is null.  However, this implementation can lead to unexpected behavior. The accompanying `bugSolution.js` offers a more robust and clearer solution.
